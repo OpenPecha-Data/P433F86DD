@@ -1,0 +1,29 @@
+id: P433F86DD
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG11902
+  instance_id: http://purl.bdrc.io/resource/IE1KG11902
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྒྱལ་ཚབ་རྗེའི་ཚད་མ་རིགས་གཏེར་འགྲེལ་པ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P65
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    6641a2b037194d1099fb112d225d484e:
+      title: པོད ༡་རྒྱལ་ཚབ་རྗེའི་ཚད་མ་རིགས་གཏེར་འགྲེལ་པ།
+      volume_number: 1
+      base_file: UT1KG11902_I1KG11978_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBBB9E3C1C227BE07
+      image_group: I1KG11978
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG11902
+  - http://purl.bdrc.io/resource/W1KG11902
+  ocr_software: Namsel
+created_at: '2021-12-22T10:31:10.083746'
+last_modified_at: '2021-12-22T10:31:10.083752'
